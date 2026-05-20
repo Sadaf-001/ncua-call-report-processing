@@ -30,3 +30,15 @@ Final merged dataset dimensions:
 
 ```python
 (4505, 2687)
+```
+
+## Workflow
+1. Extract ZIP archive
+2. Read TXT files into pandas DataFrames
+3. Convert TXT files to CSV
+4. Clean column names
+5. Merge datasets
+6. Export final merged file
+
+## Author
+Sadaf Khan
